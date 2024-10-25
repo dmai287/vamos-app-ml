@@ -28,7 +28,7 @@ The ML models are designed with the following goals in mind:
 - Methodology: Using clustering techniques (e.g., K-Means, hierarchical clustering), this model groups users into segments like daily commuters, occasional users, and tourists. Additional analysis identifies key - preferences within each segment.
 - Outcome: Tailored engagement strategies, such as commuter-specific incentives or targeted promotions for new users, to boost retention and satisfaction.
 
-4. Key Outcomes and Applications
+## Key Outcomes and Applications
 - Location Optimization: Recommended station placements based on data-driven insights to improve accessibility and reduce transit gaps.
 - Enhanced Engagement Strategies: Data-informed suggestions for marketing and engagement that align with user behavior and traffic trends.
 - User-Centric Personalization: Targeted feature updates and promotions for different user segments, driving both immediate and long-term user growth.
