@@ -8,7 +8,7 @@ The ML models are designed with the following goals in mind:
 - Identify optimal locations for new transit stations based on user demand patterns.
 - Generate strategies to increase app traffic and improve customer engagement.
 - Enhance user segmentation to enable targeted, data-driven engagement strategies.
-- 
+
 ## ML Models and Approaches
 1. Station Location Recommendation:
 
